@@ -1,0 +1,16 @@
+C:\source\codeworks\morningcsharp\bin\Debug\net5.0\morningcsharp.exe
+C:\source\codeworks\morningcsharp\bin\Debug\net5.0\morningcsharp.deps.json
+C:\source\codeworks\morningcsharp\bin\Debug\net5.0\morningcsharp.runtimeconfig.json
+C:\source\codeworks\morningcsharp\bin\Debug\net5.0\morningcsharp.runtimeconfig.dev.json
+C:\source\codeworks\morningcsharp\bin\Debug\net5.0\morningcsharp.dll
+C:\source\codeworks\morningcsharp\bin\Debug\net5.0\ref\morningcsharp.dll
+C:\source\codeworks\morningcsharp\bin\Debug\net5.0\morningcsharp.pdb
+C:\source\codeworks\morningcsharp\obj\Debug\net5.0\morningcsharp.csprojAssemblyReference.cache
+C:\source\codeworks\morningcsharp\obj\Debug\net5.0\morningcsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\morningcsharp\obj\Debug\net5.0\morningcsharp.AssemblyInfoInputs.cache
+C:\source\codeworks\morningcsharp\obj\Debug\net5.0\morningcsharp.AssemblyInfo.cs
+C:\source\codeworks\morningcsharp\obj\Debug\net5.0\morningcsharp.csproj.CoreCompileInputs.cache
+C:\source\codeworks\morningcsharp\obj\Debug\net5.0\morningcsharp.dll
+C:\source\codeworks\morningcsharp\obj\Debug\net5.0\ref\morningcsharp.dll
+C:\source\codeworks\morningcsharp\obj\Debug\net5.0\morningcsharp.pdb
+C:\source\codeworks\morningcsharp\obj\Debug\net5.0\morningcsharp.genruntimeconfig.cache
